@@ -13,7 +13,7 @@ I operate natively at the high-impact intersection of clinical medicine, public 
 
 * 🔬 **Clinical Foundation:** Background in Human Anatomy (BSc) and ongoing medical training (MBBS).
 * 📊 **Public Health Insight:** Advancing predictive analytics and systemic intervention frameworks (MSc Public Health).
-* 🤖 **AI Engineering:** Designing end-to-end agentic workflows, RAG pipelines, and explainable ML infrastructure (SHAP/LIME) tailored for clinical care.
+* 🤖 **AI Engineering:** Designing end-to-end agentic workflows, RAG pipelines, and explainable AI/ML infrasture tailored for clinical care.
 
 ---
 
