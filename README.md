@@ -24,7 +24,7 @@ An agentic clinical operating system for chronic care optimization. Features mul
 * **Stack:** LangChain, LangGraph, RAG pipelines, FastAPI, Docker, React.
 
 ### 🧬 [OncoSight-SSA](https://github.com/DrKryptoMed)
-An integrated pipeline combining oncology risk screening, facility mapping, and compliance prediction optimized for low-resource environments, utilizing explainable AI layers at every workflow stage.
+Fully Deployed integrated pipeline combining oncology risk screening, facility mapping, and compliance prediction optimized for low-resource environments, utilizing explainable AI layers at every workflow stage.
 * **Stack:** LangGraph, XGBoost, SHAP, LIME, Python.
 
 ### 📊 [Hospital Readmission Analytics](https://github.com/DrKryptoMed)
