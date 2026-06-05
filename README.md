@@ -1,5 +1,5 @@
 # Hi, I'm Ibrahim A. Mikail <span class="wave">👋</span> 
-### Healthcare AI/ML Engineer | Clinical Informatics & Public Health Professional
+### Healthcare AI/ML Architect | Clinical Informatics & Public Health Professional
 
     🌐 Portfolio Website: https://drkryptomed.github.io
     💼 LinkedIn: https://www.linkedin.com/in/ibrahim-mikail-b88477194/
