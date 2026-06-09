@@ -1,5 +1,5 @@
 # Hi, I'm Ibrahim A. Mikail <span class="wave">👋</span> 
-### Healthcare AI/ML Architect | Clinical Informatics & Public Health Professional
+### Healthcare AI/ML full stack Engineer | Health Analytics & Public Health Professional
 
     🌐 Portfolio Website: https://drkryptomed.github.io
     💼 LinkedIn: https://www.linkedin.com/in/ibrahim-mikail-b88477194/
@@ -9,11 +9,11 @@
 
 ## 🩺 The Intersection of Medicine & Technology
 
-I operate natively at the high-impact intersection of clinical medicine, public health epidemiology, and production-grade AI. My core philosophy is that healthcare algorithms shouldn't just be accurate in a research lab. They must be **clinically grounded, algorithmic-equity audited, and ready to deploy in real-world workflows.**
+I operate natively at the high-impact intersection of Data, clinical medicine, public health epidemiology, and production-grade AI. My core philosophy is that healthcare algorithms shouldn't just be accurate in a research lab. They must be **clinically grounded, Data driven, algorithmic-equity audited, and ready to deploy in real-world workflows.**
 
 * 🔬 **Clinical Foundation:** Background in Human Anatomy (BSc) and ongoing medical training (MBBS).
-* 📊 **Public Health Insight:** Advancing predictive analytics and systemic intervention frameworks (MSc Public Health).
-* 🤖 **AI Engineering:** Designing end-to-end agentic workflows, RAG pipelines, and explainable AI/ML infrasture tailored for clinical care.
+* 📊 **Public Health Insight:** Advancing Health analytics and systemic intervention frameworks (MSc Public Health).
+* 🤖 **AI/ML Engineering:** Building predictive models, Designing end-to-end agentic workflows, RAG pipelines, and explainable AI/ML infrasture tailored for clinical care.
 
 ---
 
