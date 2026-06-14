@@ -17,22 +17,6 @@ I operate natively at the high-impact intersection of Data, clinical medicine, p
 
 ---
 
-## 🚀 Pinned Flagship Projects
-
-### 📱 [AuxiChron — Digital Health Twin](https://auxichronhealth.lovable.app)
-An agentic clinical operating system for chronic care optimization. Features multi-agent triage, longitudinal monitoring, and a provider command center grounded in the Nigerian Standard Treatment Guidelines.
-* **Stack:** LangChain, LangGraph, RAG pipelines, FastAPI, Docker, React.
-
-### 🧬 [OncoSight-SSA](https://github.com/DrKryptoMed)
-Fully Deployed integrated pipeline combining oncology risk screening, facility mapping, and compliance prediction optimized for low-resource environments, utilizing explainable AI layers at every workflow stage.
-* **Stack:** LangGraph, XGBoost, SHAP, LIME, Python.
-
-### 📊 [Hospital Readmission Analytics](https://github.com/DrKryptoMed)
-A full-scale data architecture analyzing readmission drivers across clinical and community services, evaluating equity across demographics to reduce benchmark sector readmission rates.
-* **Stack:** Power BI, DAX, Advanced SQL.
-
----
-
 ## 🛠️ Technical Ecosystem
 
 ### 🧠 Agentic AI & Systems Engineering
