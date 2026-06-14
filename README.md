@@ -1,9 +1,9 @@
 # Hi, I'm Ibrahim A. Mikail <span class="wave">👋</span> 
 ### Healthcare AI/ML full stack Engineer | Health Analytics & Public Health Professional
 
-    * 🌐 **Portfolio Website:** [drkryptomed.github.io](https://drkryptomed.github.io)
-    * 💼 **LinkedIn:** [Ibrahim Mikail](https://www.linkedin.com/in/ibrahim-mikail-b88477194/)
-    * 📧 **Email:** [Mikailibrahimaremu@gmail.com](mailto:Mikailibrahimaremu@gmail.com)
+ * 🌐 **Portfolio Website:** [drkryptomed.github.io](https://drkryptomed.github.io)
+ * 💼 **LinkedIn:** [Ibrahim Mikail](https://www.linkedin.com/in/ibrahim-mikail-b88477194/)
+ * 📧 **Email:** [Mikailibrahimaremu@gmail.com](mailto:Mikailibrahimaremu@gmail.com)
 
 ---
 
